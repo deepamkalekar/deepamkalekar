@@ -15,9 +15,9 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <hr>
 
-[![Deepam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepamkalekar&theme=github_dark)](https://git.io/praveenscience)
+![Deepam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepamkalekar&theme=react-dark)
 
-| ![Deepam's github stats](https://github-readme-stats.vercel.app/api?username=deepamkalekar&show_icons=true&theme=github_dark) | ![Deepam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepamkalekar&theme=github_dark) |
+| ![Deepam's github stats](https://github-readme-stats.vercel.app/api?username=deepamkalekar&show_icons=true&theme=github_dark) | ![Deepam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepamkalekar&theme=blueberry_duo) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepamkalekar&theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=deepamkalekar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=github_dark) |
+
 
