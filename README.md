@@ -2,7 +2,7 @@
 </h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis;Data+Science;Machine+Learning;Always%20learning%20new%20things&width=500&height=30" style="margin-top:10px; "></a>
 <p>A Data Science practitioner and Data Analyst who loves to uncover the hidden facts and meaningful insights from a messy data. 
-I am working towards a role where I can engage with a group of like-minded people who love to play with data and dream to bring revolution in the world with data.</p>
+I am working towards a role where I can engage with a group of like-minded people who love to play with data.</p>
 <p>In the past, I have worked with Phenix Technologies (Nagpur) as a Full Stack Web Developer and also worked as a Freelancer.</p>
 
 <hr>
