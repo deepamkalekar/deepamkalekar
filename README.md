@@ -1,9 +1,9 @@
 <h1>Hi , I'm Deepam Kalekar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 </h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis;Data+Science;Machine+Learning;Always%20learning%20new%20things&width=500&height=30" style="margin-top:10px; "></a>
-<p>A Data Science practitioner and Data Analyst who loves to uncover the hidden facts and meaningful insights from a messy data. 
-I am working towards a role where I can engage with a group of like-minded people who love to play with data.</p>
-<p>In the past, I have worked with Phenix Technologies (Nagpur) as a Full Stack Web Developer and also worked as a Freelancer.</p>
+<p>I am an aspiring Data scientist and Analyst who loves to uncover the hidden facts and meaningful insights from a messy data. 
+Apart from that I am interested in machine learning and currently working on acquiring deep learning skills. With all that in hindsight, I am looking forward to meaningful associations.</p>
+<p>I have been a full stack web developer for a while now. Having worked with quite a few companies.</p>
 <p><a href="https://www.linkedin.com/in/deepam-kalekar-a243b4223/"><img alt="Linkedin" title="Deepam Kalekar Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:deepamkalekr29@gmail.com"><img alt="Gmail" title="Deepam Kalekar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 <hr>
