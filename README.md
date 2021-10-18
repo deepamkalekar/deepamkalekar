@@ -4,7 +4,7 @@
 <p>A Data Science practitioner and Data Analyst who loves to uncover the hidden facts and meaningful insights from a messy data. 
 I am working towards a role where I can engage with a group of like-minded people who love to play with data.</p>
 <p>In the past, I have worked with Phenix Technologies (Nagpur) as a Full Stack Web Developer and also worked as a Freelancer.</p>
-<p><a href="https://linkedin.com/in/deepamkalekar"><img alt="Linkedin" title="Deepam Kalekar Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p><a href="https://www.linkedin.com/in/deepam-kalekar-a243b4223/"><img alt="Linkedin" title="Deepam Kalekar Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:deepamkalekr29@gmail.com"><img alt="Gmail" title="Deepam Kalekar Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 <hr>
 
