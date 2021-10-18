@@ -15,7 +15,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <hr>
 
-![Deepam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepamkalekar&theme=react-dark)
+![Deepam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepamkalekar&theme=github)
 
 | ![Deepam's github stats](https://github-readme-stats.vercel.app/api?username=deepamkalekar&show_icons=true&theme=tokyonight) | ![Deepam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepamkalekar&theme=tokyonight) |
 | --- | --- |
