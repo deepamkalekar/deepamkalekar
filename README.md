@@ -7,7 +7,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <hr>
 
-### 🛠 &nbsp; Skills
+### 🛠 &nbsp; Tech Stack
 
 |<img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/python.png" width=40> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/pandas_585.png" width="55" height="45"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/numpy.png" width="60"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/matplotlib.png" width="60" height="50"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/sea.png" width="45" height="40"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/sklear.png" width="50" height="45"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/PyCharm_Icon.png" width="40"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/jupyter.png" width="40">  | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/Tensorflow_logo.png" width="45" height="45">  | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/SQL_Server.png" width="60" height="50"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/MySQL1.png" width="60" height="50"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/Power_BI.png" width="45" height="45"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/tableau.png" width="45" height="45"> | <img src="https://github.com/deepamkalekar/deepamkalekar/blob/master/excel.png" width="45" height="45"> | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
