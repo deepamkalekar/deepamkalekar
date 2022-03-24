@@ -1,6 +1,6 @@
 <h1>Hi , I'm Deepam Kalekar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 </h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analysis;Data+Science;Machine+Learning;Always%20learning%20new%20things&width=500&height=30" style="margin-top:10px; "></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence;Deep+Learning;Machine+Learning;Data+Science;Always%20learning%20new%20things&width=500&height=30" style="margin-top:10px; "></a>
 <p>I am an aspiring Data scientist and Analyst who loves to uncover the hidden facts and meaningful insights from a messy data. 
 Apart from that I am interested in machine learning and currently working on acquiring deep learning skills. With all that in hindsight, I am looking forward to meaningful associations.</p>
 <p>The reason being, I have been a full stack web developer and freelancer for quite a while now. Although I have learnt my fair share of skills while freelancing but I realized I incline more towards the office culture. I believe it provides more opportunities and scope for productivity. Looking forward to similar such association.</p>
